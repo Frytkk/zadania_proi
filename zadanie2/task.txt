@@ -1,0 +1,8 @@
+
+Proszę zaimplementować klasę reprezentującą pakowany produkt żywnościowy kupowany w sklepie spożywczym,
+którego wielkość mierzona jest za pomocą objętości (np. opakowanie mleka, soku).
+Każdy taki produkt żywnościowy charakteryzuje się nazwą, objętością (wyrażaną w pewnej jednostce), nazwą producenta,
+numerem partii produkcyjnej, datą przydatności do spożycia oraz składem – zestawem składników uporządkowanych w kolejności od występującego w największej ilości.
+Na potrzeby tego zadania składniki mogą być reprezentowane za pomocą nazw.
+
+Rozwiązanie proszę umieścić na Gitlabie w repozytorium o nazwie PROI_23L_201_Zadanie2.

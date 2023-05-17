@@ -1,0 +1,24 @@
+Proszę zaimplementować klasę reprezentującą fakturę.
+
+Faktura ma wystawcę i odbiorcę, datę i miejsce wystawienia, oraz zestaw produktów,
+które zostały zakupione w ramach tej faktury.
+
+Faktura zawiera też informację o liczbie sztuk każdego zakupionego produktu.
+Zarówno wystawca, jak i odbiorca faktury ma nazwę i adres, wystawca dodatkowo ma numer NIP.
+Produkt ma nazwę, producenta i cenę.
+
+Możliwe jest łączenie faktur (operatory + i +=),które mają tego samego wystawcę i odbiorcę.
+
+Powstaje wtedy faktura zawierająca wszystkie produkty z obu faktur źródłowych
+(jeśli jakiś produkt znajdował się na obu fakturach, to należy odpowiednio zaktualizować jego ilość),
+z nową datą i miejscem wystawienia.
+
+Faktury oraz produkty można też porównywać (operatory <, >, <=, >=).
+„Większy” jest ten produkt, który jest droższy oraz ta faktura,
+która opiewa na wyższą kwotę (liczoną jako suma kwot zakupionych produktów).
+Możliwe jest sprawdzenie, czy dany produkt znajduje się na fakturze, edycja towarów,
+z których składa się faktura
+(dodawanie nowych bez możliwości wprowadzania duplikatów,
+usuwanie i modyfikacja istniejących produktów),
+sprawdzenie liczby produktów na fakturze o cenie nie większej niż dana
+oraz sortowanie towarów wg nazw i wg cen.
