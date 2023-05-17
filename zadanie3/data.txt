@@ -1,0 +1,59 @@
+Invoice
+Issuer 1
+123 Main St
+Warsaw
+00-010
+Poland
+11111111
+Recipient 1
+456 High St
+Warsaw
+00-020
+Poland
+10.04.2022
+789 Main St
+Warsaw
+00-030
+Poland
+
+Product
+Product A
+Manufacturer A
+5.0
+2
+
+Product
+Product B
+Manufacturer B
+7.5
+1
+
+Invoice
+Issuer 2
+789 Main St
+Warsaw
+00-010
+Poland
+22222222
+Recipient 2
+789 High St
+Warsaw
+00-020
+Poland
+10.04.2022
+123 Main St
+Warsaw
+00-030
+Poland
+
+Product
+Product C
+Manufacturer C
+10.0
+3
+
+Product
+Product D
+Manufacturer D
+20.0
+2
