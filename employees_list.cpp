@@ -49,6 +49,10 @@ std::list<std::unique_ptr<Employee>>::iterator EmployeesList::find_employee_by_i
         });
 }
 
+const std::list<std::unique_ptr<Employee>>& EmployeesList::get_employees_list() const{
+    return employees;
+}
+
 
 double EmployeesList::calculate_whole_salary() {
     double total_salary = 0.0;

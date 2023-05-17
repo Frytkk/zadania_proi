@@ -20,6 +20,8 @@ class EmployeesList {
         void remove_employee(const Employee& employee);
         void remove_employee_by_id(const std::string& id_number);
 
+        const std::list<std::unique_ptr<Employee>>& get_employees_list() const;
+
         double calculate_whole_salary();
 
         std::ostream& show_information(std::ostream& os) const;

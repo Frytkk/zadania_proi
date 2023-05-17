@@ -6,9 +6,9 @@ class Nurse : public Employee {
 private:
     unsigned int years_of_experience;
     bool has_nursing_degree;
-    static constexpr double base_salary = 3000.0;
-    static constexpr double experience_bonus = 50.0;
-    static constexpr double nursing_degree_bonus = 200.0;
+    static constexpr double base_salary = 5000.0;
+    static constexpr double experience_bonus = 100.0;
+    static constexpr double nursing_degree_bonus = 2000.0;
 
 public:
     Nurse(std::string first_name, std::string surname, std::string id_number,

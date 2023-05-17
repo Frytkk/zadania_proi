@@ -33,7 +33,7 @@ void Doctor::set_years_of_experience(unsigned int years_of_experience) {
 }
 
 double Doctor::calculate_salary() const {
-    return base_salary + (*Specialization::get_value_ptr(specialization) * years_of_experience);
+    return base_salary + (*Specialization::get_value_ptr(specialization) * years_of_experience * 100);
 }
 
 void Doctor::print(std::ostream& os) const{
