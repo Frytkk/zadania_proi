@@ -1,3 +1,0 @@
-W szpitalu pracownicy medyczni pracują na różnych stanowiskach: lekarzy, pielęgniarek, ratowników medycznych itd.
-Od tego, na jakim stanowisku pracuje dany pracownik zależy sposób wyznaczania jego wynagrodzenia.
-Dane wszystkich pracowników medycznych przechowywane są w jednej centralnej bazie danych.
