@@ -1,0 +1,4 @@
+doctorName,doctorSpecialzations,maxQueueSize,queueNumber,patientName,patientAge,patientGender
+Dr. Zbigniew Beksiński,Kardiologia,10,1,Anna Wrona,35,Female
+Dr. Zbigniew Beksiński,Chirurgia,10,6,Agnieszka Walcowa,45,Female
+Dr. Zbigniew Beksiński,Chirurgia,10,3,Janusz Knur,50,Male
